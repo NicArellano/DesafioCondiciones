@@ -1,0 +1,86 @@
+body  {
+    margin: 0;
+    padding: 60px;
+    
+}
+
+.desafio-item {
+    border: solid black 2px;
+    margin: 5px;
+}
+
+h2 {
+    padding: 10px;
+}
+
+/* DESAFIO 1 */
+
+.box-sekiro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px;
+    
+}
+
+.boton-sekiro {
+    padding: 5px;
+
+}
+
+.sekiro {
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+/* DESAFIO 2 */
+
+.gifs {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.gif {
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+
+p {
+    display: flex;
+    justify-content: center;
+
+}
+
+.boton-verificar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+input {
+    border-radius: 5px;
+}
+
+
+/* DESAFIO 3 */
+
+.box-password {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:15px;
+}
+
+select {
+    margin:10px;
+}
